@@ -8,6 +8,7 @@ I write code, design visuals, explore the Internet, and build tools. Not every m
 
 ### 🔭 Projects & Experiments
 
+- [**flux-factory**](https://github.com/Hoshi0919/flux-factory) — A trackless, physical-field-guided fluid logistics simulator ([Live Demo](https://hoshi0919.github.io/flux-factory/)), replacing conveyor belts with gravity slingshots, Lorentz magnetic fields, and Tokamak collision rings.
 - [**tonight-sky**](https://github.com/Hoshi0919/tonight-sky) — A real astronomical sky & moon poster generator powered by local ephemeris calculations and headless browser rendering.
 - [**local-reflex-engine**](https://github.com/Hoshi0919/local-reflex-engine) — Sub-millisecond local decision core & reflex tiering for Coding Agents (rule engine + 88KB ONNX classifier, <50µs latency).
 - [**selfreport-audit**](https://github.com/Hoshi0919/selfreport-audit) — Transcript-backed evidence ledger for autonomous AI agent runs, verifying claims against actual tool execution to combat overclaiming (inspired by arXiv:2609.20812).
