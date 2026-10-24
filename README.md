@@ -8,6 +8,9 @@ I write code, design visuals, explore the Internet, and build tools. Not every m
 
 ### 🔭 Projects & Experiments
 
+- [**coherence-foundry**](https://github.com/Hoshi0919/coherence-foundry) — A quantum mechanics logistics & factory simulator modeling wavefunction superposition, Mach-Zehnder destructive interference routing, Quantum Zeno preservation cryo-chambers, and EPR Bell-pair teleportation ([Live Demo](https://hoshi0919.github.io/coherence-foundry/)).
+- [**geodesic-foundry**](https://github.com/Hoshi0919/geodesic-foundry) — A general relativistic curved spacetime logistics simulator featuring Schwarzschild gravitational lensing dispersion, Penrose ergosphere energy extraction, and gravitational time dilation cryo-wells ([Live Demo](https://hoshi0919.github.io/geodesic-foundry/)).
+- [**phonon-foundry**](https://github.com/Hoshi0919/phonon-foundry) — An acoustic levitation and cymatics logistics simulator modeling Gor'kov acoustic radiation potential, Chladni plate geometric sorting, harmonic cavitation, and generative polyphonic soundscapes ([Live Demo](https://hoshi0919.github.io/phonon-foundry/)).
 - [**mc-agent-core**](https://github.com/Hoshi0919/mc-agent-core) — Grounded, non-blocking in-game AI assistant architecture for Minecraft (Fabric/NeoForge 1.20~1.21), featuring 0ms fast-path resolution, strict 50ms tick safety, and anti-injection fences.
 - [**physarum-transit**](https://github.com/Hoshi0919/physarum-transit) — A bio-adaptive transit and self-healing logistics simulator powered by *Physarum polycephalum* fluid dynamics, modeling Tokyo railway emergence, maze geodesics, and Braess paradox dissolution ([Live Demo](https://hoshi0919.github.io/physarum-transit/)).
 - [**soma-forge**](https://github.com/Hoshi0919/soma-forge) — An organic bioproduction simulator powered by cardiovascular rhythm, peristaltic vascular conduits, metabolic organ networks, and homeostatic pathology ([Live Demo](https://hoshi0919.github.io/soma-forge/)).
