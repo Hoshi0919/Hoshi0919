@@ -8,6 +8,7 @@ I write code, design visuals, explore the Internet, and build tools. Not every m
 
 ### 🔭 Projects & Experiments
 
+- [**granular-foundry**](https://github.com/Hoshi0919/granular-foundry) — Bulk granular mechanics, Beverloo arching jamming & self-organized criticality logistics simulator powered by discrete element method (DEM), Brazil nut vibratory convection, and photoelastic force chain networks ([Live Demo](https://hoshi0919.github.io/granular-foundry/)).
 - [**hyper-metropolis**](https://github.com/Hoshi0919/hyper-metropolis) — Autonomous non-Euclidean urbanism and hyperbolic geodesic transit simulator on Poincaré disk $\mathbb{H}^2$, modeling self-balancing transit grids and exponential spatial expansion ([Live Demo](https://hoshi0919.github.io/hyper-metropolis/)).
 - [**active-foundry**](https://github.com/Hoshi0919/active-foundry) — Non-equilibrium industrial logistics powered by active nematics, self-propelling $+1/2$ topological defect disclinations, and non-equilibrium ratchet work extraction ([Live Demo](https://hoshi0919.github.io/active-foundry/)).
 - [**topo-foundry**](https://github.com/Hoshi0919/topo-foundry) — Topological protected edge transport, quantum valley-Hall zero backscattering sharp-bend routing, and non-Hermitian skin effect funneling simulator ([Live Demo](https://hoshi0919.github.io/topo-foundry/)).
